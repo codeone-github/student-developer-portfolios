@@ -15,6 +15,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## D
 ## E
 ## F
+
+* [Faizan khan](https://faizan-khan-portfolio.netlify.app/)
+
 ## G
 ## H
 ## I
