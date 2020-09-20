@@ -50,6 +50,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## X
 
 ## Y
+* [Yahiya Khan](https://ykcreations.netlify.app/)
 
 * [Yasmeen A](https://yasmeen1999.github.io/)
 
